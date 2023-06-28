@@ -1,1 +1,2 @@
-"# quote-api" 
+coding project exercise: 
+# quote-api
